@@ -1,0 +1,5 @@
+- SkinName: "vinneli_Mitaline"
+  Player_List: true
+  Character_ID: "vinneli_Mitaline"
+  OtherSprite_Path: "vinneli/Mitaline"
+  Mod: "SkinModHelper_Grouping__Mitaline"
