@@ -3,9 +3,12 @@
 
 HairAttrWithDashes:
   - Dashes: 0
-    Color: "5B6EE1"
+    Color: "22223F"
     Scale: 0.2, 0.2
     Length: 4
+    SegmentAttrs:
+      - Segment: 0
+        Color: "5B6EE1"
   - Dashes: 1
     Color: "22223F"
     Scale: 0.2, 0.2
@@ -13,18 +16,13 @@ HairAttrWithDashes:
     SegmentAttrs:
       - Segment: 0
         Color: "5B6EE1"
-
   - Dashes: 2
-    Color: "5B6EE1"
+    Color: "22223F"
+    Scale: 0.2, 0.2
     Length: 4
-
-# HairColors:
-#   - Dashes: 0
-#     Color: "5B6EE1"
-#   - Dashes: 1
-#     Color: "5B6EE1"
-#   - Dashes: 2
-#     Color: "5B6EE1"
+    SegmentAttrs:
+      - Segment: 0
+        Color: "5B6EE1"
 
 HairFlash: true # Enables the distracting white flash that happens when your dash count changes.
 OutlineColor: "040000" # This specifies the hair outline color, not the sprite outline.
